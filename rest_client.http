@@ -1,0 +1,10 @@
+
+@DOMAIN=http://localhost:9000
+@VERSION=v1
+###
+
+# @name LOGIN
+POST {{DOMAIN}}/{{VERSION}}/user/login
+{
+    
+}
